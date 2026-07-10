@@ -1,4 +1,4 @@
-# referral-program-skill
+# genpark-referral-program-skill
 
 > **GenPark AI Agent Skill** -- Design, simulate, and optimize customer referral programs with viral coefficient and ROI projections.
 
